@@ -1,0 +1,5 @@
+﻿codex-rs/app-server-protocol/schema/** linguist-generated
+codex-rs/hooks/schema/generated/** linguist-generated
+# Git LFS - large archives
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
